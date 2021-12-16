@@ -9,3 +9,4 @@ Build and Run :-
 4. cd build/
 5. cmake ..
 6. make
+7. Run ./ParkingLot
